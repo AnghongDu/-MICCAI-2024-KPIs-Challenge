@@ -5,7 +5,7 @@ The parameters required for these two tasks are the same. You can try downloadin
 
 The expected file structure should be:  
 
-    model  
+    model/   
        -best_model.pth  
        -best_model_21.pth  
        -best_model_39.pth
