@@ -1,2 +1,3 @@
-# -MICCAI-2024-KPIs-Challenge
-All models needed to submit task1 and task2 tasks
+# -MICCAI-2024-KPIs-Challenge-Task1
+These pre-training parameters are required for our task 1. 
+You can download them all to the "/model/ folder" and try running docker.
