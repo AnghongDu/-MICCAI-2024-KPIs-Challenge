@@ -3,10 +3,11 @@ These pre-training parameters are required for Task1 and Task2.
 
 The parameters required for these two tasks are the same. You can try downloading them to the folder "/model/" and then try running docker.
 
-The expected file structure should be:
-    model
-       -best_model.pth
-       -best_model_21.pth
+The expected file structure should be:  
+
+    model  
+       -best_model.pth  
+       -best_model_21.pth  
        -best_model_39.pth
        -best_model_47.pth
        -best_model_58.pth
